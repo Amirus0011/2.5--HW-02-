@@ -1,5 +1,5 @@
  class Board:
-     def  init  (self, hid=False, size=6):
+     def __init__(self, hid=False, size=6):
          self.size = size
          self.hid = hid
  
